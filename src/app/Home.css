@@ -1,0 +1,10 @@
+.toggle-btn {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #f3f3f3;
+}
+
+.toggle-btn.active {
+  background-color: #a8a8a8;
+  color: #ffffff;
+}

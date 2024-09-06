@@ -1,0 +1,255 @@
+{
+  "success": true,
+  "data": [
+      {
+          "_id": "65c311b9b91d3ccb73e86cce",
+          "userAddress": "0x3013bb4E03a7B81106D69C10710EaE148C8410E1",
+          "timeSlotSizeMinutes": 15,
+          "allowedDates": [
+              "2024-02-09",
+              "2024-02-17"
+          ],
+          "dateAndRanges": [
+              {
+                  "date": "2024-02-09",
+                  "timeRanges": [
+                      [
+                          "08",
+                          "12",
+                          "11",
+                          "12"
+                      ]
+                  ],
+                  "formattedUTCTime_startTime": "Fri, 09 Feb 2024 08:12:00 GMT",
+                  "utcTime_startTime": "08:12",
+                  "formattedUTCTime_endTime": "Fri, 09 Feb 2024 11:12:00 GMT",
+                  "utcTime_endTime": "11:12"
+              },
+              {
+                  "date": "2024-02-17",
+                  "timeRanges": [
+                      [
+                          "14",
+                          "12",
+                          "11",
+                          "13"
+                      ]
+                  ],
+                  "formattedUTCTime_startTime": "Sat, 17 Feb 2024 14:12:00 GMT",
+                  "utcTime_startTime": "14:12",
+                  "formattedUTCTime_endTime": "Sat, 17 Feb 2024 11:13:00 GMT",
+                  "utcTime_endTime": "11:13"
+              }
+          ],
+          "createdAt": "2024-02-07T05:14:33.448Z",
+          "updatedAt": "2024-02-07T05:14:33.448Z"
+      },
+      {
+          "_id": "65c3172cb91d3ccb73e86ccf",
+          "userAddress": "0x3013bb4E03a7B81106D69C10710EaE148C8410E1",
+          "timeSlotSizeMinutes": 15,
+          "allowedDates": [
+              "2024-02-09",
+              "2024-02-17",
+              "2024-02-16"
+          ],
+          "dateAndRanges": [
+              {
+                  "date": "2024-02-09",
+                  "timeRanges": [
+                      [
+                          "08",
+                          "12",
+                          "11",
+                          "12"
+                      ]
+                  ],
+                  "formattedUTCTime_startTime": "Fri, 09 Feb 2024 08:12:00 GMT",
+                  "utcTime_startTime": "08:12",
+                  "formattedUTCTime_endTime": "Fri, 09 Feb 2024 11:12:00 GMT",
+                  "utcTime_endTime": "11:12"
+              },
+              {
+                  "date": "2024-02-17",
+                  "timeRanges": [
+                      [
+                          "14",
+                          "12",
+                          "11",
+                          "13"
+                      ]
+                  ],
+                  "formattedUTCTime_startTime": "Sat, 17 Feb 2024 14:12:00 GMT",
+                  "utcTime_startTime": "14:12",
+                  "formattedUTCTime_endTime": "Sat, 17 Feb 2024 11:13:00 GMT",
+                  "utcTime_endTime": "11:13"
+              },
+              {
+                  "date": "2024-02-16",
+                  "timeRanges": [
+                      [
+                          "08",
+                          "37",
+                          "07",
+                          "37"
+                      ]
+                  ],
+                  "formattedUTCTime_startTime": "Fri, 16 Feb 2024 08:37:00 GMT",
+                  "utcTime_startTime": "08:37",
+                  "formattedUTCTime_endTime": "Fri, 16 Feb 2024 07:37:00 GMT",
+                  "utcTime_endTime": "07:37"
+              }
+          ],
+          "createdAt": "2024-02-07T05:37:48.932Z",
+          "updatedAt": "2024-02-07T05:37:48.932Z"
+      },
+      {
+          "_id": "65c32a4d57e3b95650591ba7",
+          "userAddress": "0x3013bb4E03a7B81106D69C10710EaE148C8410E1",
+          "timeSlotSizeMinutes": 15,
+          "allowedDates": [
+              "2024-02-27",
+              "2024-02-28",
+              "2024-02-29"
+          ],
+          "dateAndRanges": [
+              {
+                  "date": "2024-02-27",
+                  "timeRanges": [
+                      [
+                          "06",
+                          "58",
+                          "10",
+                          "58"
+                      ]
+                  ],
+                  "formattedUTCTime_startTime": "Tue, 27 Feb 2024 06:58:00 GMT",
+                  "utcTime_startTime": "06:58",
+                  "formattedUTCTime_endTime": "Tue, 27 Feb 2024 10:58:00 GMT",
+                  "utcTime_endTime": "10:58"
+              },
+              {
+                  "date": "2024-02-28",
+                  "timeRanges": [
+                      [
+                          "06",
+                          "58",
+                          "12",
+                          "59"
+                      ]
+                  ],
+                  "formattedUTCTime_startTime": "Wed, 28 Feb 2024 06:58:00 GMT",
+                  "utcTime_startTime": "06:58",
+                  "formattedUTCTime_endTime": "Wed, 28 Feb 2024 12:59:00 GMT",
+                  "utcTime_endTime": "12:59"
+              },
+              {
+                  "date": "2024-02-29",
+                  "timeRanges": [
+                      [
+                          "06",
+                          "59",
+                          "14",
+                          "59"
+                      ]
+                  ],
+                  "formattedUTCTime_startTime": "Thu, 29 Feb 2024 06:59:00 GMT",
+                  "utcTime_startTime": "06:59",
+                  "formattedUTCTime_endTime": "Thu, 29 Feb 2024 14:59:00 GMT",
+                  "utcTime_endTime": "14:59"
+              }
+          ],
+          "createdAt": "2024-02-07T06:59:25.223Z",
+          "updatedAt": "2024-02-07T06:59:25.223Z"
+      }
+  ]
+}
+
+
+{
+  "userAddress": "0x8Be8e0E6541A5B87dd45E67C0",
+  "timeSlotSizeMinutes": 15,
+  "allowedDates": ["2024-02-08","2024-02-09"],
+  "dateAndRanges": [
+    {
+      "date": "2024-02-08",
+      "timeRanges": [["00", "22", "12", "22"]],
+      "formattedUTCTime_startTime": "Thu, 08 Feb 2024 00:22:00 GMT",
+      "utcTime_startTime": "00:22",
+      "formattedUTCTime_endTime": "Thu, 08 Feb 2024 12:22:00 GMT",
+      "utcTime_endTime": "12:22"
+    },
+    {
+      "date": "2024-02-09",
+      "timeRanges": [["01", "20", "12", "20"]],
+      "formattedUTCTime_startTime": "Fri, 09 Feb 2024 01:20:00 GMT",
+      "utcTime_startTime": "01:20",
+      "formattedUTCTime_endTime": "Fri, 09 Feb 2024 12:20:00 GMT",
+      "utcTime_endTime": "12:20"
+    }
+  ]
+}
+
+
+
+
+
+{
+  "_id": "65c32a4d57e3b95650591ba7",
+  "userAddress": "0x3013bb4E03a7B81106D69C10710EaE148C8410E1",
+  "timeSlotSizeMinutes": 15,
+  "allowedDates": [
+      "2024-02-27",
+      "2024-02-28",
+      "2024-02-29"
+  ],
+  "dateAndRanges": [
+      {
+          "date": "2024-02-27",
+          "timeRanges": [
+              [
+                  "06",
+                  "58",
+                  "10",
+                  "58"
+              ]
+          ],
+          "formattedUTCTime_startTime": "Tue, 27 Feb 2024 06:58:00 GMT",
+          "utcTime_startTime": "06:58",
+          "formattedUTCTime_endTime": "Tue, 27 Feb 2024 10:58:00 GMT",
+          "utcTime_endTime": "10:58"
+      },
+      {
+          "date": "2024-02-28",
+          "timeRanges": [
+              [
+                  "06",
+                  "58",
+                  "12",
+                  "59"
+              ]
+          ],
+          "formattedUTCTime_startTime": "Wed, 28 Feb 2024 06:58:00 GMT",
+          "utcTime_startTime": "06:58",
+          "formattedUTCTime_endTime": "Wed, 28 Feb 2024 12:59:00 GMT",
+          "utcTime_endTime": "12:59"
+      },
+      {
+          "date": "2024-02-29",
+          "timeRanges": [
+              [
+                  "06",
+                  "59",
+                  "14",
+                  "59"
+              ]
+          ],
+          "formattedUTCTime_startTime": "Thu, 29 Feb 2024 06:59:00 GMT",
+          "utcTime_startTime": "06:59",
+          "formattedUTCTime_endTime": "Thu, 29 Feb 2024 14:59:00 GMT",
+          "utcTime_endTime": "14:59"
+      }
+  ],
+  "createdAt": "2024-02-07T06:59:25.223Z",
+  "updatedAt": "2024-02-07T06:59:25.223Z"
+}
